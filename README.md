@@ -1,6 +1,6 @@
-# baseapp
+## Base App
 
-A new Flutter project.
+A new Flutter project just for clone.
 
 ## Getting Started
 
